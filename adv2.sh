@@ -15,5 +15,6 @@ mkdir new_dir
 cd new_dir
 ./hello
 cd
-export PATH=$PATH:new_dir
+mv hello new_dir
+export PATH=$PATH:/home/students/17200/lebedeva/new_dir
 ./hello

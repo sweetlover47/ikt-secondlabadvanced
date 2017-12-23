@@ -17,4 +17,4 @@ cd new_dir
 cd
 mv hello new_dir
 export PATH=$PATH:/home/students/17200/lebedeva/new_dir
-./hello
+hello
